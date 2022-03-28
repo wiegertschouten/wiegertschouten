@@ -1,1 +1,1 @@
-Hi! I'm a full stack PHP/JS/WordPress developer. I currently work at [First](https://2bfirst.nl).
+Hi! I'm a full stack PHP/JS/WordPress developer at [First](https://2bfirst.nl).
